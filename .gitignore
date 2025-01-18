@@ -1,0 +1,6 @@
+
+*.db
+
+*.vsidx
+
+.vs/MediaPlayer/v17/
