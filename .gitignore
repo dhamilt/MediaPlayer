@@ -4,3 +4,7 @@
 *.vsidx
 
 .vs/MediaPlayer/v17/
+
+MediaPlayer/x64/Debug/
+
+x64/Debug/
